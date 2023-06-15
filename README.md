@@ -4,4 +4,6 @@ The Grant Information Act of 2018 of California requires the California State Li
 1. What are the total sums of estimated available funds for projects per agency?  
 2. Which agency has the most applications submitted?
 
+Lastly, I used plotly to create a bar chart of which ten agencies have the most total sums of estimated available funds. 
+
 The public data can be found here: https://catalog.data.gov/dataset/california-grants-portal
