@@ -1,6 +1,6 @@
 # California-Grants-Data-Analysis
 
-<img src ="fundsforgrants.png" width="300">
+<img src ="fundsforgrants.png" width="500">
 
 The Grant Information Act of 2018 of California requires the California State Library to build a regularly updating online database for grant opportunities. Grantseekers can glean information on grant or loan opportunities, including information about how to apply. I use Python Pandas in a Jupyter notebook to ask a few questions:   
 
